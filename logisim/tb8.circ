@@ -713,20 +713,10 @@
     <comp lib="0" loc="(1680,740)" name="Tunnel">
       <a name="label" val="WR"/>
     </comp>
-    <comp lib="0" loc="(1700,390)" name="Tunnel">
+    <comp lib="0" loc="(1690,390)" name="Tunnel">
       <a name="facing" val="south"/>
       <a name="label" val="DATA"/>
       <a name="width" val="8"/>
-    </comp>
-    <comp lib="0" loc="(1730,500)" name="Splitter">
-      <a name="appear" val="center"/>
-      <a name="facing" val="south"/>
-      <a name="fanout" val="8"/>
-      <a name="incoming" val="8"/>
-    </comp>
-    <comp lib="0" loc="(1750,400)" name="Pin">
-      <a name="appearance" val="classic"/>
-      <a name="facing" val="south"/>
     </comp>
     <comp lib="0" loc="(180,100)" name="Tunnel">
       <a name="label" val="LDI"/>
@@ -2301,11 +2291,6 @@
       <a name="select" val="3"/>
       <a name="selloc" val="tr"/>
     </comp>
-    <comp lib="2" loc="(1700,410)" name="Multiplexer">
-      <a name="facing" val="north"/>
-      <a name="selloc" val="tr"/>
-      <a name="width" val="8"/>
-    </comp>
     <comp lib="2" loc="(180,420)" name="Decoder">
       <a name="enable" val="false"/>
       <a name="select" val="2"/>
@@ -2457,7 +2442,6 @@
     <comp lib="5" loc="(1680,260)" name="Hex Digit Display">
       <a name="decimalPoint" val="false"/>
     </comp>
-    <comp lib="5" loc="(1680,520)" name="DipSwitch"/>
     <comp lib="6" loc="(1270,2110)" name="74193">
       <a name="ShowInternalStructure" val="true"/>
     </comp>
@@ -2474,17 +2458,17 @@
       <a name="font" val="Dialog bold 36"/>
       <a name="text" val="Register Unit"/>
     </comp>
-    <comp lib="8" loc="(1172,270)" name="Text">
+    <comp lib="8" loc="(1170,270)" name="Text">
       <a name="font" val="Dialog bold 24"/>
       <a name="text" val="8-15"/>
     </comp>
-    <comp lib="8" loc="(1172,80)" name="Text">
-      <a name="font" val="Dialog bold 24"/>
-      <a name="text" val="Register Files"/>
-    </comp>
-    <comp lib="8" loc="(1173,500)" name="Text">
+    <comp lib="8" loc="(1170,500)" name="Text">
       <a name="font" val="Dialog bold 24"/>
       <a name="text" val="16-23"/>
+    </comp>
+    <comp lib="8" loc="(1170,80)" name="Text">
+      <a name="font" val="Dialog bold 24"/>
+      <a name="text" val="Register Files"/>
     </comp>
     <comp lib="8" loc="(1310,665)" name="Text">
       <a name="font" val="Dialog bold 24"/>
@@ -3122,7 +3106,7 @@
     <wire from="(1680,2050)" to="(1680,2080)"/>
     <wire from="(1680,2340)" to="(1680,2370)"/>
     <wire from="(1680,260)" to="(1680,290)"/>
-    <wire from="(1690,440)" to="(1690,490)"/>
+    <wire from="(1690,390)" to="(1690,490)"/>
     <wire from="(170,1090)" to="(170,1220)"/>
     <wire from="(170,1090)" to="(260,1090)"/>
     <wire from="(170,1270)" to="(170,1290)"/>
@@ -3142,14 +3126,8 @@
     <wire from="(170,890)" to="(170,920)"/>
     <wire from="(170,890)" to="(180,890)"/>
     <wire from="(170,920)" to="(190,920)"/>
-    <wire from="(1700,390)" to="(1700,410)"/>
-    <wire from="(1710,440)" to="(1710,490)"/>
-    <wire from="(1710,490)" to="(1730,490)"/>
     <wire from="(1720,2060)" to="(1720,2530)"/>
-    <wire from="(1720,430)" to="(1750,430)"/>
     <wire from="(1730,2070)" to="(1730,2540)"/>
-    <wire from="(1730,490)" to="(1730,500)"/>
-    <wire from="(1750,400)" to="(1750,430)"/>
     <wire from="(180,1250)" to="(180,1290)"/>
     <wire from="(180,1330)" to="(180,1450)"/>
     <wire from="(180,1450)" to="(220,1450)"/>
