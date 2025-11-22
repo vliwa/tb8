@@ -2338,13 +2338,11 @@
       <a name="appearance" val="logisim_evolution"/>
       <a name="trigger" val="high"/>
     </comp>
-    <comp lib="4" loc="(610,400)" name="S-R Flip-Flop">
+    <comp lib="4" loc="(610,400)" name="D Flip-Flop">
       <a name="appearance" val="classic"/>
-      <a name="trigger" val="high"/>
     </comp>
-    <comp lib="4" loc="(610,550)" name="S-R Flip-Flop">
+    <comp lib="4" loc="(610,550)" name="D Flip-Flop">
       <a name="appearance" val="classic"/>
-      <a name="trigger" val="high"/>
     </comp>
     <comp lib="4" loc="(650,660)" name="Register">
       <a name="appearance" val="logisim_evolution"/>
