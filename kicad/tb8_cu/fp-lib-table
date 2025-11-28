@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Custom_PCBEdge")(type "KiCad")(uri "${KIPRJMOD}/Custom_PCBEdge.pretty")(options "")(descr ""))
+)
