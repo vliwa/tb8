@@ -6,8 +6,9 @@
 	(paper "B")
 	(title_block
 		(title "tb8 Control Unit Card")
-		(date "2025-11-28")
+		(date "2025-11-29")
 		(rev "0.1")
+		(company "Dante Morelli")
 	)
 	(lib_symbols
 		(symbol "74xx:74HC00"
