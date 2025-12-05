@@ -19207,7 +19207,7 @@
 			)
 		)
 	)
-	(global_label "eql"
+	(global_label "cmp"
 		(shape input)
 		(at 30.48 250.19 180)
 		(fields_autoplaced yes)
@@ -19219,7 +19219,7 @@
 		)
 		(uuid "0e6924d6-fbaf-451b-ab35-75b7c98eec8d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.592 250.19 0)
+			(at 23.5639 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19911,7 +19911,7 @@
 			)
 		)
 	)
-	(global_label "ste_i"
+	(global_label "stc_i"
 		(shape input)
 		(at 63.5 26.67 180)
 		(fields_autoplaced yes)
@@ -19933,7 +19933,7 @@
 			)
 		)
 	)
-	(global_label "ste_i"
+	(global_label "stc_i"
 		(shape input)
 		(at 80.01 151.13 0)
 		(fields_autoplaced yes)
@@ -20703,7 +20703,7 @@
 			)
 		)
 	)
-	(global_label "eql"
+	(global_label "cmp"
 		(shape input)
 		(at 62.23 21.59 180)
 		(fields_autoplaced yes)
@@ -20715,7 +20715,7 @@
 		)
 		(uuid "f1536c97-7cf0-4c09-83df-332577b0d6ed")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.342 21.59 0)
+			(at 55.3139 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
