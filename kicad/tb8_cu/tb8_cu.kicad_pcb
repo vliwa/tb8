@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "tb8 Control Unit Card")
-		(date "2025-11-29")
-		(rev "0.1")
+		(date "2025-12-13")
+		(rev "1.0")
 		(company "Dante Morelli")
 	)
 	(layers
@@ -141,9 +141,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "output/")
 		)
 	)
 	(net 0 "")
@@ -14089,8 +14089,8 @@
 		(layer "Edge.Cuts")
 		(uuid "a96dd191-e584-467a-a204-7770d09f44db")
 	)
-	(gr_text "tb8 Control Unit Card v0.1"
-		(at 240.5 99.7 90)
+	(gr_text "tb8 Control Unit Card v1.0"
+		(at 241 99.7 90)
 		(layer "F.SilkS")
 		(uuid "2161de20-4226-4a38-973f-76a7bda9248a")
 		(effects
