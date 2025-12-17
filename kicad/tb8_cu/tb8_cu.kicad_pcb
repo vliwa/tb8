@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "tb8 Control Unit Card")
-		(date "2025-12-13")
+		(date "2025-12-16")
 		(rev "1.0")
 		(company "Dante Morelli")
 	)
@@ -14098,7 +14098,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "Designed by Dante M.\n2025-12-13"
+	(gr_text "Designed by Dante M.\n2025-12-16"
 		(at 241 141.2 0)
 		(layer "F.SilkS")
 		(uuid "936912b6-baf3-499e-b7c5-8f5d51648ac1")
