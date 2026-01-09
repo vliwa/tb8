@@ -6,7 +6,7 @@
 	(paper "B")
 	(title_block
 		(title "tb8 Control Unit Card")
-		(date "2025-12-16")
+		(date "2026-01-08")
 		(rev "1.0")
 		(company "Dante Morelli")
 	)
@@ -23169,7 +23169,7 @@
 				)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 140.9783 132.08 0)
 			(effects
 				(font
@@ -23340,7 +23340,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74HCT74"
+		(property "Value" "74AHCT74"
 			(at 153.2733 143.51 0)
 			(effects
 				(font
@@ -23444,7 +23444,7 @@
 				)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 297.18 130.048 90)
 			(effects
 				(font
@@ -23653,7 +23653,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74AHCT238"
+		(property "Value" "74HCT238"
 			(at 69.4533 138.43 0)
 			(effects
 				(font
@@ -24689,7 +24689,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 281.94 250.1899 0)
 			(effects
 				(font
@@ -24795,7 +24795,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74HCT74"
+		(property "Value" "74AHCT74"
 			(at 300.99 250.1899 0)
 			(effects
 				(font
@@ -24966,7 +24966,7 @@
 				)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 207.0183 172.72 0)
 			(effects
 				(font
@@ -25388,7 +25388,7 @@
 				)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 203.2083 129.54 0)
 			(effects
 				(font
@@ -26287,7 +26287,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 250.19 129.5482 90)
 			(effects
 				(font
@@ -26498,7 +26498,7 @@
 				)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 160.0283 129.54 0)
 			(effects
 				(font
@@ -26970,7 +26970,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74AHCT238"
+		(property "Value" "74HCT238"
 			(at 103.7433 105.41 0)
 			(effects
 				(font
@@ -27272,7 +27272,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 262.89 250.1899 0)
 			(effects
 				(font
@@ -28421,7 +28421,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74HCT74"
+		(property "Value" "74AHCT74"
 			(at 196.4533 143.51 0)
 			(effects
 				(font
@@ -28526,7 +28526,7 @@
 				)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 184.1583 132.08 0)
 			(effects
 				(font
@@ -29600,7 +29600,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "74HC00"
+		(property "Value" "74AHCT00"
 			(at 229.87 127.0082 90)
 			(effects
 				(font

@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "tb8 Control Unit Card")
-		(date "2025-12-16")
+		(date "2026-01-08")
 		(rev "1.0")
 		(company "Dante Morelli")
 	)
@@ -284,7 +284,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C20"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "32c18dec-a9d4-46e0-b666-fa1b7022a0a3")
 			(effects
@@ -467,7 +468,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C17"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "c27a8c29-4c48-4136-b599-8bd975415adb")
 			(effects
@@ -650,7 +652,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C11"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "43c65ad2-04a2-4131-8f4d-9a72c3c979c7")
 			(effects
@@ -833,7 +836,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C4"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e86063cd-2f5f-42e7-b26e-145646dfcfb7")
 			(effects
@@ -1016,7 +1020,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C2"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "5a6a0baa-b493-4f29-9c10-421bed0d02a5")
 			(effects
@@ -1199,7 +1204,8 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U12"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "4aa18847-6aa8-40e8-bc9e-fcfed4ba8241")
 			(effects
@@ -1210,8 +1216,9 @@
 			)
 		)
 		(property "Value" "74AHCT193"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+			(at 3.81 20.11 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "626a5494-27a9-4023-9c42-2743c7ba6a94")
 			(effects
 				(font
@@ -1601,7 +1608,8 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U16"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a30716e7-83d4-4bca-8350-e81fa5844768")
 			(effects
@@ -1611,9 +1619,10 @@
 				)
 			)
 		)
-		(property "Value" "74HC00"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+		(property "Value" "74AHCT00"
+			(at 3.81 17.57 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "d3a5d8ef-ee88-4ed7-a472-a80c27d3393c")
 			(effects
 				(font
@@ -1969,7 +1978,8 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U13"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a439e890-e0bb-4dbe-a09a-a08100be4273")
 			(effects
@@ -1980,8 +1990,9 @@
 			)
 		)
 		(property "Value" "74AHCT193"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+			(at 3.81 20.11 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "020f2e57-fbf4-44ca-8539-358ef77e609a")
 			(effects
 				(font
@@ -2371,7 +2382,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C12"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "60adb5c0-66fe-40d0-b8d3-90f9244b7b7f")
 			(effects
@@ -2554,7 +2566,8 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U17"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b727d9d0-1583-4bb1-95ec-ef111c8dcda1")
 			(effects
@@ -2564,9 +2577,10 @@
 				)
 			)
 		)
-		(property "Value" "74HC00"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+		(property "Value" "74AHCT00"
+			(at 3.81 17.57 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "2de8b025-0870-44cf-9e4f-6640fe704304")
 			(effects
 				(font
@@ -2600,7 +2614,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm* SO14*")
-		(path "/8868f916-0db9-40bb-9465-45442639b6b9")
+		(path "/d6dd6cc9-e0e4-49ea-90ea-25527ffde687")
 		(sheetname "/")
 		(sheetfile "tb8_cu.kicad_sch")
 		(attr through_hole)
@@ -2922,7 +2936,8 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U2"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "6151020e-49a7-4e86-a4f0-87807e413e9c")
 			(effects
@@ -2933,8 +2948,9 @@
 			)
 		)
 		(property "Value" "74AHCT08"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+			(at 3.81 17.57 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "0a6ccdb0-3ffb-42b2-8db9-a37af5431be2")
 			(effects
 				(font
@@ -3290,7 +3306,8 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U1"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "97ff71f3-f8ef-4a1a-850e-03f12e6a851b")
 			(effects
@@ -3301,8 +3318,9 @@
 			)
 		)
 		(property "Value" "74AHCT74"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+			(at 3.81 17.57 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "e67411b8-f282-4b66-8196-3053aafe2264")
 			(effects
 				(font
@@ -3670,7 +3688,8 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U22"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e71d7945-054c-48f1-b7fb-a224152b3958")
 			(effects
@@ -3681,8 +3700,9 @@
 			)
 		)
 		(property "Value" "74AHCT573"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 25.19 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "37feb39a-7fd6-42f7-aa2b-d6dc1ab197dc")
 			(effects
 				(font
@@ -4116,7 +4136,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C13"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d60c8ace-01e0-4e4a-8f79-ee7850c7a9a4")
 			(effects
@@ -4299,7 +4320,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C22"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b38c695b-3f2c-433e-97af-c795936d3e33")
 			(effects
@@ -4482,7 +4504,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C3"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e8259f6f-97f3-451c-b657-f918d5f707e8")
 			(effects
@@ -4665,7 +4688,8 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U8"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "188bee48-e348-47c7-bf7f-de1d61d1316f")
 			(effects
@@ -4676,8 +4700,9 @@
 			)
 		)
 		(property "Value" "74AHCT00"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+			(at 3.81 17.57 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "73bc4f30-bccf-46ed-ac82-27d15a7212e1")
 			(effects
 				(font
@@ -5033,7 +5058,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C8"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "cb3e5766-4c3b-4957-be0c-c2e303b784f3")
 			(effects
@@ -5216,7 +5242,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C16"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b3913f5a-5bd6-42f9-91df-e9cd4fa4baaa")
 			(effects
@@ -5399,7 +5426,8 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U7"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "0217b8a3-5519-4a23-9f42-c6de5caa8685")
 			(effects
@@ -5410,8 +5438,9 @@
 			)
 		)
 		(property "Value" "74AHCT573"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 25.19 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "c2841330-7e0e-4798-9b28-1713125a44ee")
 			(effects
 				(font
@@ -5845,7 +5874,8 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U19"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "1426a788-89c7-4c09-b8b9-f388b856ead8")
 			(effects
@@ -5856,8 +5886,9 @@
 			)
 		)
 		(property "Value" "74AHCT573"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 25.19 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "7f4e3880-cc0f-4151-8269-ef3095259740")
 			(effects
 				(font
@@ -6291,7 +6322,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C1"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "9fce1666-a9ea-4639-87be-4c3dbad325ac")
 			(effects
@@ -6474,7 +6506,8 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U15"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "96c4454a-e826-47d3-84e3-1664d2bede38")
 			(effects
@@ -6485,8 +6518,9 @@
 			)
 		)
 		(property "Value" "74AHCT573"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 25.19 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "3207abbc-7c27-4bfe-bf96-2b5b1c3ed3d3")
 			(effects
 				(font
@@ -6920,7 +6954,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C19"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "dcadccf3-8a54-4b9d-8bea-84611fb8bcf6")
 			(effects
@@ -7103,7 +7138,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C7"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e586e38e-13da-4f23-81ad-0b15150a46e2")
 			(effects
@@ -7286,7 +7322,8 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U3"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "08d77786-29b3-4532-927c-51b5d1e3bd7e")
 			(effects
@@ -7297,8 +7334,9 @@
 			)
 		)
 		(property "Value" "74AHCT32"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+			(at 3.81 17.57 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "d942577c-c94a-439e-ba73-66ec09966680")
 			(effects
 				(font
@@ -7654,7 +7692,8 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U14"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b00eb3de-f11d-4954-be39-45daf5a06f65")
 			(effects
@@ -7665,8 +7704,9 @@
 			)
 		)
 		(property "Value" "74AHCT573"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 25.19 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "6051f3f8-636c-49e7-858e-e1142e4e08ae")
 			(effects
 				(font
@@ -8100,7 +8140,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C21"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "61726c91-16e1-407c-85e7-395b5b75945d")
 			(effects
@@ -8283,7 +8324,8 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U10"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "c17b1be8-f35d-44b2-b4d8-7255306fa95a")
 			(effects
@@ -8294,8 +8336,9 @@
 			)
 		)
 		(property "Value" "74AHCT193"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+			(at 3.81 20.11 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "fc7e39e4-1183-4b2c-9ef9-21f5eda23544")
 			(effects
 				(font
@@ -8685,7 +8728,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C6"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d27ebde2-541d-499f-80a7-c7ea1437fa42")
 			(effects
@@ -8868,7 +8912,7 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U9"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "451a9fe8-772f-4491-8ae0-fee93bad39c8")
@@ -8880,8 +8924,9 @@
 			)
 		)
 		(property "Value" "74AHCT573"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 25.19 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "1a76b993-3ff2-4d19-b1cf-98ed6ef366ff")
 			(effects
 				(font
@@ -9315,7 +9360,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C15"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3da55f8d-9c1c-4e90-86c1-092a8d470c70")
 			(effects
@@ -9498,7 +9544,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C14"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "ae3245a0-2d56-40b8-8445-b8d67cf83cb5")
 			(effects
@@ -9681,7 +9728,8 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U5"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "ca3ddbd6-a4a2-433a-a332-0b818e933a5c")
 			(effects
@@ -9691,9 +9739,10 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT238"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+		(property "Value" "74HCT238"
+			(at 3.81 20.11 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "b9b3b351-fc19-4be0-ae92-e47a918fcdf7")
 			(effects
 				(font
@@ -10083,7 +10132,8 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U21"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "41dd7a8a-af15-45a3-b0ca-768f382fc252")
 			(effects
@@ -10094,8 +10144,9 @@
 			)
 		)
 		(property "Value" "74AHCT573"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 25.19 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "8ec27a40-69fa-4388-99ea-66c96c27235a")
 			(effects
 				(font
@@ -10529,7 +10580,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C18"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "602d4179-0720-4ab2-b0ca-a6b14138f593")
 			(effects
@@ -10712,7 +10764,8 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U11"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a74e66cb-170b-44ef-b63c-53f3e4a7886b")
 			(effects
@@ -10723,8 +10776,9 @@
 			)
 		)
 		(property "Value" "74AHCT193"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+			(at 3.81 20.11 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "c526c78e-e311-49bd-8969-3936a0acf3f4")
 			(effects
 				(font
@@ -11114,7 +11168,8 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U6"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a5c09e9c-ebf2-48e1-9d2d-730f812f316d")
 			(effects
@@ -11124,9 +11179,10 @@
 				)
 			)
 		)
-		(property "Value" "74AHCT238"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+		(property "Value" "74HCT238"
+			(at 3.81 20.11 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "f106c258-5d15-4236-b5cf-47f8406bfc64")
 			(effects
 				(font
@@ -11516,7 +11572,8 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U4"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "8bbbc956-5b80-479a-b851-0d2089c335b1")
 			(effects
@@ -11527,8 +11584,9 @@
 			)
 		)
 		(property "Value" "74AHCT573"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 25.19 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "d73e4ecb-b665-4772-8d14-3c5ae5f9b868")
 			(effects
 				(font
@@ -11962,7 +12020,8 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U18"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "86a69bf9-abb1-4a75-ae01-95723444978c")
 			(effects
@@ -11972,9 +12031,10 @@
 				)
 			)
 		)
-		(property "Value" "74HCT74"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+		(property "Value" "74AHCT74"
+			(at 3.81 17.57 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "5353d4a6-1d9c-48fb-a479-86633680e730")
 			(effects
 				(font
@@ -12342,7 +12402,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C10"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "2a185069-c1ab-4e0d-8c84-4c2e0cb02b03")
 			(effects
@@ -12525,7 +12586,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C9"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "a6e5c534-34ba-46f6-936b-ef391f17b45c")
 			(effects
@@ -12708,7 +12770,8 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket, LongPads")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
 		(property "Reference" "U20"
-			(at 3.81 -2.33 90)
+			(at 3.81 -2.33 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "ed7a0b47-dba8-42d1-817b-4dc1330f18cd")
 			(effects
@@ -12719,8 +12782,9 @@
 			)
 		)
 		(property "Value" "74AHCT573"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 25.19 270)
+			(unlocked yes)
+			(layer "F.SilkS")
 			(uuid "f9794b85-15b9-4243-8ab8-bbcd634d7b25")
 			(effects
 				(font
@@ -13154,7 +13218,8 @@
 		(descr "C, Rect series, Radial, pin pitch=2.50mm, length*width=4*2.5mm^2, Capacitor")
 		(tags "C Rect series Radial pin pitch 2.50mm length 4mm width 2.5mm Capacitor")
 		(property "Reference" "C5"
-			(at 1.25 -2.5 90)
+			(at 1.25 -2.5 270)
+			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "7d99f77f-0ed6-4516-95df-045c5594903d")
 			(effects
@@ -14098,7 +14163,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "Designed by Dante M.\n2025-12-16"
+	(gr_text "Designed by Dante M.\n2026-01-08"
 		(at 241 141.2 0)
 		(layer "F.SilkS")
 		(uuid "936912b6-baf3-499e-b7c5-8f5d51648ac1")
